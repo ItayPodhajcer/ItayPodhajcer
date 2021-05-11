@@ -14,5 +14,6 @@ Published Work:
 
 - Terraform Modules: **[blockchain-service-wrapper](https://registry.terraform.io/modules/cladular/blockchain-service-wrapper/azurerm/latest)**
 - GitHub Actions: **[Generate Ethereum Address](https://github.com/marketplace/actions/generate-ethereum-address)**
+- NPM Packages: **[ipfs-add-folder](https://www.npmjs.com/package/ipfs-add-folder)**
 
 
