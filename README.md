@@ -9,7 +9,7 @@ Connect with me also on:
 - Medium: **[@itaypodhajcer](https://medium.com/@itaypodhajcer)**
 - Twitter: **[@ItayPodhajcer](https://twitter.com/ItayPodhajcer)**
 - LInkedin: **[itaypodhajcer](https://www.linkedin.com/in/itaypodhajcer/)**
-- Terraform: **[Cladular](https://registry.terraform.io/namespaces/cladular)** and **[ItayPodhajcer](https://registry.terraform.io/namespaces/ItayPodhajcer)**
+- Terraform Modules: **[blockchain-service-wrapper](https://registry.terraform.io/modules/cladular/blockchain-service-wrapper/azurerm/latest)**
 - GitHub Actions: **[Generate Ethereum Address](https://github.com/marketplace/actions/generate-ethereum-address)**
 
 
