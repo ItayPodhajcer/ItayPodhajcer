@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**ItayPodhajcer/itaypodhajcer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Itay Podhajcer's GitHub Social Cover](./github-social-preview-shape-only.png)
 
-Here are some ideas to get you started:
+I'm a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004141?fullName=Itay%20Podhajcer), coding for both work and fun. You can find most of my repos under the [Cladular](https://github.com/cladular) organization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me also on:
+
+- Medium: **[@itaypodhajcer](https://medium.com/@itaypodhajcer)**
+- Twitter: **[@ItayPodhajcer](https://twitter.com/ItayPodhajcer)**
+- LInkedin: **[itaypodhajcer](https://www.linkedin.com/in/itaypodhajcer/)**
+
+
