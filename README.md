@@ -4,11 +4,10 @@
 
 I'm a [Microsoft Azure MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004141?fullName=Itay%20Podhajcer), coding for both work and fun. You can find most of my repos under the [Cladular](https://github.com/cladular) organization.
 
-Connect with me also on:
-
-- Medium: **[@itaypodhajcer](https://medium.com/@itaypodhajcer)**
-- Twitter: **[@ItayPodhajcer](https://twitter.com/ItayPodhajcer)**
-- LInkedin: **[itaypodhajcer](https://www.linkedin.com/in/itaypodhajcer/)**
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itaypodhajcer)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ItayPodhajcer)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaypodhajcer)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6565271/itay-podhajcer)
 
 Published work:
 
