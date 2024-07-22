@@ -4,10 +4,10 @@
 
 Coding for both work and fun. You can find most of my repos under the [Cladular](https://github.com/cladular) organization.
 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itaypodhajcer)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ItayPodhajcer)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaypodhajcer)
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6565271/itay-podhajcer)
+[![Blog](https://img.shields.io/badge/itaypodhajcer-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.itaypodhajcer.com)
+[![X](https://img.shields.io/badge/itaypodhajcer-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/ItayPodhajcer)
+[![Linkedin](https://img.shields.io/badge/itaypodhajcer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itaypodhajcer)
+[![StackOverflow](https://img.shields.io/badge/itay--podhajcer-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/6565271/itay-podhajcer)
 
 Published work:
 
