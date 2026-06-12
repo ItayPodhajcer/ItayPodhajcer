@@ -10,7 +10,7 @@ Coding for both work and fun 😎🛠️🚀
 
 My blog:
 
-[![Blog](https://img.shields.io/badge/itaypodhajcer-000000?style=for-the-badge&logo=medium&logoColor=white)](https://www.itaypodhajcer.com)
+[![Blog](https://img.shields.io/badge/itaypodhajcer-000000?style=for-the-badge&logo=rss&logoColor=white)](https://itaypodhajcer.com)
 
 Social media profiles:
 
